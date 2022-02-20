@@ -13,5 +13,4 @@ This project is a maze running game in which the player must navigate the maze w
 ### Gameplay 
 Place holder
 
-### Code and Blueprints
-Place Holder
+
