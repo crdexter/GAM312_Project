@@ -11,6 +11,6 @@ This project is a maze running game in which the player must navigate the maze w
 * UI/UX Creation
 
 ### Gameplay 
-Place holder
+https://youtu.be/i5EpdS-Gx1A
 
 
